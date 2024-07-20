@@ -1,6 +1,6 @@
 {
   "name": "ngrpcli",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "node gRPC cli client",
   "author": "Ashkan Abd",
   "license": "MIT",
